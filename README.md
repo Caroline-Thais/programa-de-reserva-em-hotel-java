@@ -5,6 +5,6 @@ O programa não aceita dados inválidos para a reserva, conforme as seguintes re
 - Alterações de reserva só podem ocorrer para datas futuras; e
 - A data de saída deve ser maior que a data de entrada.
  
-Ferramentas utilizadas:
-Java
-Tratamento de exceções try catch
+Ferramentas utilizadas: <br>
+- Java
+- Tratamento de exceções try catch
